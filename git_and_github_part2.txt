@@ -1,0 +1,18 @@
+1:how to cheack if git is available on your system?
+1st we will open the command prompt.then we write the git --version command.after that the git version willbe showing.
+2:how to initialize the git repository?
+by using git init command we can initialize the git repository
+3:how to tell git about your user name and email?
+by using git config --global user.name <username> and git config --global user.name <gmail> command we can add gmail and username into the git configuration
+4:how to add file in staging area?
+by using git add <file> command we can add file into the staging area.
+5:how to remove file from the staging area?
+by using git restore command we can remove file from staging area
+6:how to make commit?
+by using git commit -m "message" command we can commit the file into our system's repository
+7:how to send your changes to remote repository?
+by using push key word we can sen the modified file into the remote repository
+the diffrence between clone and pull is ,pull is used to take the current changed file into our system repository and clone is used to make clone of the remote repository into the developer's system.
+
+
+
